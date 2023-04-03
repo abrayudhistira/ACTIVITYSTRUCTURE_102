@@ -7,10 +7,16 @@ struct AlamatDetail			//membuat struktur variabel AlamatDetail dengan karakter
 	char Kota[20];
 };
 
-struct mahasiswa		//membuat struktur variabel mahasiswa dengan karakter
+struct Mahasiswa		//membuat struktur variabel mahasiswa dengan karakter
 {
 	char NIM[20];
 	char nama[20];
 	AlamatDetail alamat;
 	int umur;
 };
+
+int main() {
+	Mahasiswa mhs[3];			// mendeklarasikan variabel mahasiswa
+
+	for
+}
