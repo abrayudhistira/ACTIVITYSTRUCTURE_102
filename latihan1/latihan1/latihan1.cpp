@@ -9,3 +9,11 @@ struct mahasiswa		//membuat tipe data struct
 	int umur;
 };
 
+int main() {
+	mahasiswa mhs1, mhs2;		//membuat manual variabel mahasiswa1
+
+	mhs1.NIM = "20220140102";
+	mhs1.nama = "Abra Yudhistira";
+	mhs1.alamat = "Yogyakarta";
+	mhs1.umur = 20;
+}
