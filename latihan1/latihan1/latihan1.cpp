@@ -30,4 +30,10 @@ int main() {
 	cout << "\nNama = " << mhs1.nama;
 	cout << "\nAlamat = " << mhs1.alamat;
 	cout << "\nUmur = " << mhs1.umur;
+
+	cout << "\n\nNIM = " << mhs2.NIM;		//deklarasikan variabel mahasiswa2
+	cout << "\nNama = " << mhs2.nama;
+	cout << "\nAlamat = " << mhs2.alamat;
+	cout << "\nUmur = " << mhs2.umur;
+}
 }
