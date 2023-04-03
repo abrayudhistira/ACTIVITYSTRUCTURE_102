@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-struct AlamatDetail			//membuat struktur variabel AlamatDetail
+struct AlamatDetail			//membuat struktur variabel AlamatDetail dengan karakter
 {
-	string desa;
-	string kota;
+	char Desa[20];
+	char Kota[20];
 };
