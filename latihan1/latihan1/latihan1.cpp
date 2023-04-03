@@ -25,4 +25,9 @@ int main() {
 	cin >> mhs2.alamat;
 	cout << "Masukkan Umur = ";
 	cin >> mhs2.umur;
+
+	cout << "\nNIM = " << mhs1.NIM;		//deklarasikan variabel mahasiswa1
+	cout << "\nNama = " << mhs1.nama;
+	cout << "\nAlamat = " << mhs1.alamat;
+	cout << "\nUmur = " << mhs1.umur;
 }
